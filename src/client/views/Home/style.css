@@ -1,0 +1,11 @@
+.arcman-home {
+    padding: 1rem;
+}
+
+.arcman-home .__title {
+    text-align: center;
+}
+
+.arcman-home .__logo {
+    width: 15rem;
+}
